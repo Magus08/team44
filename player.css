@@ -1,0 +1,64 @@
+.playersec {
+  width: 100%;
+  background-color: #e1e1e1;
+  border-radius: 8px;
+}
+
+.playerheader {
+  font-weight: bold;
+  font-size: 24px;
+  padding-top: 60px;
+  padding-left: 100px;
+  padding-bottom: 40px;
+  color: #18a518;
+}
+
+.divone {
+  display: inline-block;
+  margin-left: 100px;
+  width: 270px;
+  padding-bottom: 60px;
+}
+
+.divtwo {
+  width: 300px;
+  display: inline-flex;
+}
+
+.colst {
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  object-fit: cover;
+  transition: scale 0.5s;
+}
+
+.colst:hover {
+  scale: 98.5%;
+}
+
+.number {
+  object-fit: cover;
+  font-size: 100px;
+  font-weight: bold;
+  color: #18a518;
+}
+
+.sidenumber {
+  width: 150px;
+  display: block;
+  margin-left: 20px;
+}
+
+.name {
+  font-weight: 18px;
+  font-weight: bold;
+  color: #18a518;
+  margin-bottom: 0px;
+}
+
+.subname {
+  font-size: 14px;
+  color: #999999;
+  padding-top: 5px;
+}

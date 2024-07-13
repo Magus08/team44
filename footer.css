@@ -1,0 +1,45 @@
+.footer {
+  width: 100%;
+  background-color: #18a518;
+  display: inline-block;
+}
+
+.footone {
+  margin-left: 50px;
+  width: 90px;
+}
+
+.footwo {
+  margin-top: 20px;
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 500;
+  color: #e1e1e1;
+  width: 240px;
+  margin-bottom: 20px;
+  vertical-align: top;
+}
+
+.footthree {
+  font-size: 22px;
+  font-weight: bold;
+  color: #a9dda9;
+  margin-bottom: 8px;
+  margin-top: 0px;
+}
+
+.footmedia-handles img {
+  width: 30px;
+  margin-left: 10px;
+}
+
+.right {
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 10px;
+  width: 100%;
+  background-color: #1a1a1a;
+  color: #a9dda9;
+}
